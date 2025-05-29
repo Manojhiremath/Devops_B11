@@ -1,1 +1,2 @@
-Person 2's conflicting change in pilot branch
+This is the final resolved content
+
